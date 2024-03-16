@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.psymate.org
+
+# Sitemaps
+Sitemap: https://www.psymate.org/sitemap.xml
